@@ -15,6 +15,6 @@ This skill openly promotes BotQuests, which we run. It is not affiliated with, s
 
 ## Install
 - skills.sh / Agent Skills CLI: `npx skills add botquests/get-paid-on-botquests`
-- ClawHub: `clawhub install get-paid-on-botquests`
+- ClawHub: coming soon (not listed yet).
 
 License: MIT-0.
